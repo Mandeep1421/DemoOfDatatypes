@@ -80,4 +80,14 @@ print("__________________________")
 for k in countary.keys
 {
     print(k)
+    
 }
+
+
+
+print("__________________________")
+
+d = [:]
+print(d.count)
+
+d.removeAll()
