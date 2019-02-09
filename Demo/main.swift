@@ -47,3 +47,14 @@ var x = 5...10
 var y = 1..<10
 
 print(y)
+
+
+var z = ...50
+if (z.contains(52))
+{
+    print("True")
+    
+}
+else{
+    print("False")
+}
